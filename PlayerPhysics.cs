@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-
+#Using the playerphsics
 [RequireComponent (typeof(BoxCollider))]
 public class PlayerPhysics : MonoBehaviour {
 	
